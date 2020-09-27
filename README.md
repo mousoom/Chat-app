@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Clone the Project : ### `https://github.com/mousoom/Chat-app.git`
+
 In the project directory, you can run:
 
 ### `npm start`
