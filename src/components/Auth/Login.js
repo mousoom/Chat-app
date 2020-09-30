@@ -3,7 +3,7 @@ import React from 'react';
 class Login extends React.Component{
     render(){
         return(
-            <div>Login</div>
+            <div>Login Component to be implemented here</div>
         )
     }
 }
